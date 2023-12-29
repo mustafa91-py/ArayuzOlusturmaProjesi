@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ArayuzOlusturmaProjesi</string>
+    <string name="ornek_button">Ornek Button</string>
 </resources>
